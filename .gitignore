@@ -1,0 +1,11 @@
+# Python Sanal Ortamı
+.venv/
+venv/
+
+# Python Derlemesi Çıktıları
+__pycache__/
+*.pyc
+
+# IDE veya OS geçici dosyaları
+.vscode/
+.DS_Store
