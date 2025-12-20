@@ -1,11 +1,15 @@
-# Python Sanal Ortamı
+
+# Gizli yapılandırma dosyası (şifrelenmemiş hali)
+.gitsecret/paths/mapping.cfg
+
+# GPG özel anahtarları (ASLA depoya eklenmemeli)
+.gitsecret/private-keys-v1.d/
+
+
+# Python sanal ortamı
 .venv/
 venv/
 
-# Python Derlemesi Çıktıları
-__pycache__/
-*.pyc
-
-# IDE veya OS geçici dosyaları
-.vscode/
+# IDE ve OS geçici dosyaları
+.vscodium/
 .DS_Store
