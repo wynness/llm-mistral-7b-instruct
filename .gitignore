@@ -1,6 +1,6 @@
 
 # Gizli yapılandırma dosyası (şifrelenmemiş hali)
-.gitsecret/paths/mapping.cfg
+
 
 # GPG özel anahtarları (ASLA depoya eklenmemeli)
 .gitsecret/private-keys-v1.d/
@@ -13,3 +13,4 @@ venv/
 # IDE ve OS geçici dosyaları
 .vscodium/
 .DS_Store
+llm.py
