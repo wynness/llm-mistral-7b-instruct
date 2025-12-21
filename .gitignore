@@ -1,7 +1,7 @@
 
 # Gizli yapılandırma dosyası (şifrelenmemiş hali)
-
-
+random_seed
+ll.py
 # GPG özel anahtarları (ASLA depoya eklenmemeli)
 .gitsecret/private-keys-v1.d/
 
