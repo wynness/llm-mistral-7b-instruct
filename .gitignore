@@ -1,7 +1,8 @@
 
 # Gizli yapılandırma dosyası (şifrelenmemiş hali)
-
-
+random_seed
+llm.py
+.gitsecret/paths/mapping.cfg.secret
 # GPG özel anahtarları (ASLA depoya eklenmemeli)
 .gitsecret/private-keys-v1.d/
 
